@@ -10,13 +10,13 @@ class Hello
         //Console.WriteLine(args[0]);
         Console.ReadKey();
 
-        int grade = 90;
-        int* ptr = &grade;
+        //int grade = 90;
+        //int* ptr = &grade;
 
-        Console.WriteLine("Original Grade: " + grade);
-        Console.WriteLine("Memory Address: " + (ulong)ptr);
+        //Console.WriteLine("Original Grade: " + grade);
+        //Console.WriteLine("Memory Address: " + (ulong)ptr);
 
-        *ptr = 95; // Modifying value using pointer
-        Console.WriteLine("Updated Grade: " + grade);
+        //*ptr = 95; // Modifying value using pointer
+        //Console.WriteLine("Updated Grade: " + grade);
     }
 }
