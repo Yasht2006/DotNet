@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TM_Systems\\dotnet\\UserAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2250A5-A92C-4CD8-B2DA-4CCDE33628CD}|UserAuth\\UserAuth.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2250A5-A92C-4CD8-B2DA-4CCDE33628CD}|UserAuth\\UserAuth.csproj|solutionrelative:userauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth.infrastructure\\services\\implementation\\tokenblacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|solutionrelative:userauth.infrastructure\\services\\implementation\\tokenblacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2250A5-A92C-4CD8-B2DA-4CCDE33628CD}|UserAuth\\UserAuth.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth\\middleware\\tokenblacklistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2250A5-A92C-4CD8-B2DA-4CCDE33628CD}|UserAuth\\UserAuth.csproj|solutionrelative:userauth\\middleware\\tokenblacklistmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth.infrastructure\\services\\interfaces\\itokenblacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|solutionrelative:userauth.infrastructure\\services\\interfaces\\itokenblacklistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC2250A5-A92C-4CD8-B2DA-4CCDE33628CD}|UserAuth\\UserAuth.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC2250A5-A92C-4CD8-B2DA-4CCDE33628CD}|UserAuth\\UserAuth.csproj|solutionrelative:userauth\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4992C630-64EA-43FF-B485-3F009D6FBAB7}|UserAuth.Domain\\UserAuth.Domain.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4992C630-64EA-43FF-B485-3F009D6FBAB7}|UserAuth.Domain\\UserAuth.Domain.csproj|solutionrelative:userauth.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth.infrastructure\\context\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|solutionrelative:userauth.infrastructure\\context\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4992C630-64EA-43FF-B485-3F009D6FBAB7}|UserAuth.Domain\\UserAuth.Domain.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth.domain\\models\\blacklistedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4992C630-64EA-43FF-B485-3F009D6FBAB7}|UserAuth.Domain\\UserAuth.Domain.csproj|solutionrelative:userauth.domain\\models\\blacklistedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC890B2-80B7-4267-A6E2-FDA3163020DD}|UserAuth.Application\\UserAuth.Application.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth.application\\dtos\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC890B2-80B7-4267-A6E2-FDA3163020DD}|UserAuth.Application\\UserAuth.Application.csproj|solutionrelative:userauth.application\\dtos\\user\\userresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth.infrastructure\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|solutionrelative:userauth.infrastructure\\services\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth.infrastructure\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|solutionrelative:userauth.infrastructure\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC890B2-80B7-4267-A6E2-FDA3163020DD}|UserAuth.Application\\UserAuth.Application.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC890B2-80B7-4267-A6E2-FDA3163020DD}|UserAuth.Application\\UserAuth.Application.csproj|solutionrelative:userauth.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|d:\\tm_systems\\dotnet\\userauth\\userauth.infrastructure\\services\\implementation\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53705BEE-0E47-44CF-ACDF-0939A711CD71}|UserAuth.Infrastructure\\UserAuth.Infrastructure.csproj|solutionrelative:userauth.infrastructure\\services\\implementation\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenBlacklistMiddleware.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth\\Middleware\\TokenBlacklistMiddleware.cs",
+              "RelativeDocumentMoniker": "UserAuth\\Middleware\\TokenBlacklistMiddleware.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth\\Middleware\\TokenBlacklistMiddleware.cs",
+              "RelativeToolTip": "UserAuth\\Middleware\\TokenBlacklistMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:15:59.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenBlacklistService.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Services\\Implementation\\TokenBlacklistService.cs",
+              "RelativeDocumentMoniker": "UserAuth.Infrastructure\\Services\\Implementation\\TokenBlacklistService.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Services\\Implementation\\TokenBlacklistService.cs",
+              "RelativeToolTip": "UserAuth.Infrastructure\\Services\\Implementation\\TokenBlacklistService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:09:18.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITokenBlacklistService.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Services\\Interfaces\\ITokenBlacklistService.cs",
+              "RelativeDocumentMoniker": "UserAuth.Infrastructure\\Services\\Interfaces\\ITokenBlacklistService.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Services\\Interfaces\\ITokenBlacklistService.cs",
+              "RelativeToolTip": "UserAuth.Infrastructure\\Services\\Interfaces\\ITokenBlacklistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:08:52.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Context\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "UserAuth.Infrastructure\\Context\\UserDbContext.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Context\\UserDbContext.cs",
+              "RelativeToolTip": "UserAuth.Infrastructure\\Context\\UserDbContext.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAUwFIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:44:30.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlacklistedToken.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Domain\\Models\\BlacklistedToken.cs",
+              "RelativeDocumentMoniker": "UserAuth.Domain\\Models\\BlacklistedToken.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Domain\\Models\\BlacklistedToken.cs",
+              "RelativeToolTip": "UserAuth.Domain\\Models\\BlacklistedToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:43:07.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth\\Program.cs",
+              "RelativeDocumentMoniker": "UserAuth\\Program.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth\\Program.cs",
+              "RelativeToolTip": "UserAuth\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:00:17.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserAuth\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserAuth\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:12:14.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserAuth.Domain\\Models\\User.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Domain\\Models\\User.cs",
+              "RelativeToolTip": "UserAuth.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:27:26.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserResponseDTO.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Application\\DTOs\\User\\UserResponseDTO.cs",
+              "RelativeDocumentMoniker": "UserAuth.Application\\DTOs\\User\\UserResponseDTO.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Application\\DTOs\\User\\UserResponseDTO.cs",
+              "RelativeToolTip": "UserAuth.Application\\DTOs\\User\\UserResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:29:52.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "UserAuth.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "UserAuth.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:23:11.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Services\\Implementation\\TokenService.cs",
+              "RelativeDocumentMoniker": "UserAuth.Infrastructure\\Services\\Implementation\\TokenService.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Services\\Implementation\\TokenService.cs",
+              "RelativeToolTip": "UserAuth.Infrastructure\\Services\\Implementation\\TokenService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:13:48.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Services\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "UserAuth.Infrastructure\\Services\\Implementation\\UserService.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Services\\Implementation\\UserService.cs",
+              "RelativeToolTip": "UserAuth.Infrastructure\\Services\\Implementation\\UserService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:08:07.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "UserAuth.Infrastructure\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\TM_Systems\\dotnet\\UserAuth\\UserAuth.Infrastructure\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "UserAuth.Infrastructure\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:07:39.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

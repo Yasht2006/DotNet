@@ -1,0 +1,11 @@
+D:\TM_Systems\dotnet\UserAuth\UserAuth.Domain\bin\Debug\net8.0\UserAuth.Domain.deps.json
+D:\TM_Systems\dotnet\UserAuth\UserAuth.Domain\bin\Debug\net8.0\UserAuth.Domain.dll
+D:\TM_Systems\dotnet\UserAuth\UserAuth.Domain\bin\Debug\net8.0\UserAuth.Domain.pdb
+D:\TM_Systems\dotnet\UserAuth\UserAuth.Domain\obj\Debug\net8.0\UserAuth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TM_Systems\dotnet\UserAuth\UserAuth.Domain\obj\Debug\net8.0\UserAuth.Domain.AssemblyInfoInputs.cache
+D:\TM_Systems\dotnet\UserAuth\UserAuth.Domain\obj\Debug\net8.0\UserAuth.Domain.AssemblyInfo.cs
+D:\TM_Systems\dotnet\UserAuth\UserAuth.Domain\obj\Debug\net8.0\UserAuth.Domain.csproj.CoreCompileInputs.cache
+D:\TM_Systems\dotnet\UserAuth\UserAuth.Domain\obj\Debug\net8.0\UserAuth.Domain.dll
+D:\TM_Systems\dotnet\UserAuth\UserAuth.Domain\obj\Debug\net8.0\refint\UserAuth.Domain.dll
+D:\TM_Systems\dotnet\UserAuth\UserAuth.Domain\obj\Debug\net8.0\UserAuth.Domain.pdb
+D:\TM_Systems\dotnet\UserAuth\UserAuth.Domain\obj\Debug\net8.0\ref\UserAuth.Domain.dll
